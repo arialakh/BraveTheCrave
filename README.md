@@ -1,1 +1,1 @@
-# braveTheCrave
+Brave the Crave is a mobile app that uses cognitive behavioral therapy techniques to help teens battle their e-cigarette addiction. Brave the Crave is now available on the iOS App Store and the Google Play Store!
